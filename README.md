@@ -4,4 +4,4 @@ NPM     : 2106651906
 
 Kelas   : A
 
-Hobi    : Tidur
+Hobi    : Tidur & Makan
